@@ -1,0 +1,56 @@
+Java-Rice™ - Initial Plan
+
+Program Theme:
+Point of Sale
+Mall
+
+Programming Language:
+Java
+PostgreSQL (idk)
+
+Note:
+No Full Screen
+
+Dimension: 1280 x 720
+
+Tutorial: (Instructions/How to Use)
+Pop-up and Highlights a specific window with Instruction
+
+Categories:
+tbd
+
+Favorites:
+Sort by: (Name, Date Added, Price)
+Add(?) / Remove
+
+Search Engine:
+By Category
+By Price Range
+By Item Name
+Stocks (?)
+Availability (?)
+Tags (?)
+
+Menu:
+Categories
+Cart
+Favorites
+About Us
+Settings
+Exit
+
+Cart:
+Voucher %
+Total (Raw)
+Total (Discounted)
+Payment (tbd)
+
+Add/Remove Function
+Edit Quantity
+Cancel
+
+Settings:
+Developer Mode
+Add and/or Remove Items
+Change Stocks (tbd)
+Clear Cache (for storage, might add as well to public)
